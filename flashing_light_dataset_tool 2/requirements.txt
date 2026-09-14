@@ -1,0 +1,5 @@
+opencv-python
+numpy
+yt-dlp[default]
+PySide6
+iris-pse-detection==1.1.2
